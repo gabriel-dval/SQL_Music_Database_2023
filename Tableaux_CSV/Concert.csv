@@ -1,0 +1,51 @@
+1,Organization_A,Band_X,Band_Y,TRUE,ENVIRONMENT,1
+2,Foundation_B,Band_Z,Band_W,FALSE,NULL,2
+3,Initiative_C,Band_X,Band_Z,TRUE,HUMAN RIGHTS,3
+4,Charity_D,Band_W,Band_Y,FALSE,NULL,4
+5,NGO_E,Band_Y,Band_X,TRUE,EDUCATION,5
+6,Community_F,Band_Z,Band_W,TRUE,POVERTY,6
+7,Coalition_G,Band_W,Band_X,FALSE,NULL,7
+8,Association_H,Band_X,Band_Y,TRUE,HEALTH,8
+9,Alliance_I,Band_Y,Band_Z,FALSE,NULL,9
+10,Society_J,Band_Z,Band_W,TRUE,EQUALITY,10
+11,Group_K,Band_W,Band_Y,FALSE,NULL,11
+12,Collective_L,Band_X,Band_Z,TRUE,ANIMAL RIGHTS,12
+13,Union_M,Band_W,Band_Y,FALSE,NULL,13
+14,Team_N,Band_Z,Band_X,TRUE,COMMUNITY DEVELOPMENT,14
+15,Network_O,Band_Y,Band_W,TRUE,GENDER EQUALITY,15
+16,League_P,Band_X,Band_Z,FALSE,NULL,16
+17,Foundation_Q,Band_W,Band_Y,TRUE,CULTURAL HERITAGE,17
+18,Initiative_R,Band_Z,Band_X,FALSE,NULL,18
+19,Organization_S,Band_X,Band_W,TRUE,POVERTY,19
+20,Charity_T,Band_Y,Band_Z,FALSE,NULL,20
+21,NGO_U,Band_W,Band_X,TRUE,EDUCATION,21
+22,Community_V,Band_X,Band_Z,TRUE,HEALTH,22
+23,Coalition_W,Band_Y,Band_W,FALSE,NULL,23
+24,Association_X,Band_Z,Band_X,TRUE,HUMAN RIGHTS,24
+25,Alliance_Y,Band_W,Band_Y,FALSE,NULL,25
+26,Society_Z,Band_X,Band_Z,TRUE,EQUALITY,26
+27,Group_AA,Band_Y,Band_W,FALSE,NULL,27
+28,NULL,Band_Z,Band_X,TRUE,ANIMAL RIGHTS,28
+29,Union_CC,Band_W,Band_Y,FALSE,NULL,29
+30,Team_DD,Band_X,Band_Z,TRUE,COMMUNITY DEVELOPMENT,30
+31,Network_EE,Band_Y,Band_W,TRUE,GENDER EQUALITY,1
+32,League_FF,Band_X,Band_Z,FALSE,NULL,2
+33,Foundation_GG,Band_W,Band_Y,TRUE,CULTURAL HERITAGE,3
+34,Initiative_HH,Band_Z,Band_X,FALSE,NULL,4
+35,Organization_II,Band_X,Band_W,TRUE,POVERTY,5
+36,Charity_JJ,Band_Y,Band_Z,FALSE,NULL,6
+37,NGO_KK,Band_W,Band_X,TRUE,EDUCATION,7
+38,Community_LL,Band_X,Band_Z,TRUE,HEALTH,8
+39,Coalition_MM,Band_Y,Band_W,FALSE,NULL,9
+40,Association_NN,Band_Z,Band_X,TRUE,HUMAN RIGHTS,10
+41,Alliance_OO,Band_W,Band_Y,FALSE,NULL,11
+42,Society_PP,Band_X,Band_Z,TRUE,EQUALITY,12
+43,Group_QQ,Band_Y,Band_W,FALSE,NULL,13
+44,Collective_RR,Band_Z,Band_X,TRUE,ANIMAL RIGHTS,14
+45,Union_SS,Band_W,Band_Y,FALSE,NULL,15
+46,Team_TT,Band_X,Band_Z,TRUE,COMMUNITY DEVELOPMENT,16
+47,Network_UU,Band_Y,Band_W,TRUE,GENDER EQUALITY,17
+48,League_VV,Band_X,Band_Z,FALSE,NULL,18
+49,Foundation_WW,Band_W,Band_Y,TRUE,CULTURAL HERITAGE,19
+50,Initiative_XX,Band_Z,Band_X,FALSE,NULL,20
+51,NULL,Band_W,Band_Z,FALSE,NULL,2
