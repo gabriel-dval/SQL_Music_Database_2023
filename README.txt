@@ -1,4 +1,4 @@
-Description des documents présents dans le projet
+Skeleton of basic SQL database (University Project) - Description in French
 
 Binômes:
     Gabriel DUVAL
